@@ -5,32 +5,10 @@ import yfinance as yf
 from fredapi import Fred
 import pandas_ta as ta
 
-    
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-'''
+"""
     stocks['Date'] = pd.to_datetime(stocks['Date'])
     stocks['DayofWeek'] = stocks['Date'].dt.dayofweek
     stocks['Month'] = stocks['Date'].dt.month
 
-'''
+"""
